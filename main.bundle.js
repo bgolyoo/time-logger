@@ -1411,7 +1411,6 @@ var LoginService = (function () {
     LoginService.prototype.logout = function () {
         var _this = this;
         this.af.auth
-            .filter(function (authState) { return !authState; })
             .first()
             .subscribe(function () {
             _this.isLoggedIn = false;
