@@ -79587,4 +79587,4 @@ module.exports = function(module) {
 
 /***/ })
 ]);
-//# sourceMappingURL=vendor.bundle.map
+//# sourceMappingURL=vendor.bundle.js.map

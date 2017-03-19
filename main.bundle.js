@@ -8215,7 +8215,8 @@ var AppModule = (function () {
 // `ng build --env=prod` then `environment.prod.ts` will be used instead.
 // The list of which env maps to which file can be found in `angular-cli.json`.
 var environment = {
-    production: false
+    production: false,
+    baseURL: '/'
 };
 //# sourceMappingURL=/home/bgolyoo/work/hub-repo/time-logger/src/environment.js.map
 
@@ -8605,4 +8606,4 @@ var Wrapper_NgFor = (function () {
 /***/ })
 
 },[638]);
-//# sourceMappingURL=main.bundle.map
+//# sourceMappingURL=main.bundle.js.map

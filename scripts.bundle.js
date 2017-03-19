@@ -70,4 +70,4 @@ module.exports = __webpack_require__(422);
 /***/ })
 
 },[641]);
-//# sourceMappingURL=scripts.bundle.map
+//# sourceMappingURL=scripts.bundle.js.map
